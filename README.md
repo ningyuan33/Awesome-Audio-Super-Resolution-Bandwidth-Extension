@@ -237,10 +237,10 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2025
 
-* `[Venue'25]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[NeurIPS'25]** Audio Super-Resolution with Latent Bridge Models [[Paper](https://papers.neurips.cc/paper_files/paper/2025/file/4572bc2f514e627914cbe60d0398a2d1-Paper-Conference.pdf)] [[Demo](https://audiolbm.github.io/?ref=aiartweekly)]
 
-### 2024
+* **[ICASSP'25]** Bridge-SR: Schrödinger Bridge for Efficient SR [[Paper](https://ieeexplore.ieee.org/document/10890104)]
 
-* `[Venue'24]` **A2SB / Related Method** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ArXiv'25]** A2SB: Audio-to-Audio Schrodinger Bridges [[Paper](https://ieeexplore.ieee.org/document/10890104)] [[Code](https://github.com/NVIDIA/diffusion-audio-restoration)]
 
 ---
