@@ -87,7 +87,7 @@ This repository organizes representative methods according to their primary mode
 
 * **[ArXiv'25]** A High-Fidelity Speech Super Resolution Network using a Complex Global Attention Module with Spectro-Temporal Loss [[Paper](https://arxiv.org/abs/2507.00229)]
 
-* **[InterSpeech'25]** A Neural Codec Approach for Noise-Robust Bandwidth Expansion [[Paper](https://www.isca-archive.org/interspeech_2025/liu25p_interspeech.pdf)]
+* **[Interspeech'25]** A Neural Codec Approach for Noise-Robust Bandwidth Expansion [[Paper](https://www.isca-archive.org/interspeech_2025/liu25p_interspeech.pdf)] [[Demo](https://winkee520.github.io/NRBWE/)]
 
 ### 2024
 
