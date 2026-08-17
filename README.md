@@ -95,13 +95,9 @@ If you find our survey or this repository useful for your research, please consi
 
 ## State Space Models (Mamba)
 
-### 2026
+### 2024
 
-* `[Venue'26]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
-
-### 2025
-
-* `[Venue'25]` **VM-ASR** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[IMWUT'24]** TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms [[Paper](https://dl.acm.org/doi/pdf/10.1145/3699757)] [[Code](https://github.com/IMEC-Northwestern/TRAMBA)]
 
 ---
 
