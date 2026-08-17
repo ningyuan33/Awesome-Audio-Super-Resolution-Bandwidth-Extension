@@ -69,7 +69,7 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'24]** Speaker Adaptation For Enhancement Of Bone-Conducted Speech [[Paper](https://ieeexplore.ieee.org/document/10447322)]
 
-
+* **[SPL'23]** Restoration of Bone-Conducted Speech With U-Net-Like Model and Energy Distance Loss [[Paper](https://ieeexplore.ieee.org/document/10374184)]
 
 ### Earlier Works
 
