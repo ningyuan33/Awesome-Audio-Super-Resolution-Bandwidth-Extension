@@ -85,7 +85,7 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[Interspeech'20]** Speaker and Phoneme-Aware Speech Bandwidth Extension with Residual Dual-Path Network [[Paper](https://www.isca-archive.org/interspeech_2020/hou20c_interspeech.html)]
 
-
+* **[NeurIPS'19]** Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/2afc4dfb14e55c6face649a1d0c1025b-Paper.pdf)]
 
 ---
 
