@@ -87,7 +87,9 @@ If you find our survey or this repository useful for your research, please consi
 
 ### Earlier Works
 
-* **[IMWUT'24]** Tunet: A Block-Online Bandwidth Extension Model Based On Transformers And Self-Supervised Pretraining [[Paper](https://ieeexplore.ieee.org/document/9747699)] [[Code](https://github.com/nxtproduct/tunet)]
+* **[ICASSP'22]** Tunet: A Block-Online Bandwidth Extension Model Based On Transformers And Self-Supervised Pretraining [[Paper](https://ieeexplore.ieee.org/document/9747699)] [[Code](https://github.com/nxtproduct/tunet)]
+
+* **[MLSP'21]** Self-Attention for Audio Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9596082)] [[Code](https://github.com/ncarraz/AFILM)]
 
 ---
 
