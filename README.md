@@ -153,10 +153,6 @@ If you find our survey or this repository useful for your research, please consi
 
 # ✨ Generative Models
 
-Generative approaches model the conditional distribution of missing audio information and can synthesize plausible high-frequency components beyond deterministic point estimates.
-
----
-
 ## Autoregressive Models
 
 ### 2024
