@@ -44,8 +44,6 @@ If you find our survey or this repository useful for your research, please consi
 ---
 
 ## 📑 Table of Contents
-
-* [Overview](#-overview)
 * [Discriminative Models](#-discriminative-models)
 
   * [MLP/RNN/CNN](#mlp-based-models)
