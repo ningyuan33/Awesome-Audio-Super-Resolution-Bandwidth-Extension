@@ -87,8 +87,6 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[Interspeech'20]** Speaker and Phoneme-Aware Speech Bandwidth Extension with Residual Dual-Path Network [[Paper](https://www.isca-archive.org/interspeech_2020/hou20c_interspeech.html)]
 
-* **[Interspeech'19]** Speech Audio Super-Resolution for Speech Recognition [[Paper](https://www.isca-archive.org/interspeech_2019/li19q_interspeech.html)]
-
 * **[NeurIPS'19]** Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/2afc4dfb14e55c6face649a1d0c1025b-Paper.pdf)] [[Code](https://github.com/kuleshov/audio-super-res)]
 
 * **[ICASSP'18]** Time-Frequency Networks for Audio Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/8462049)] [[Code](https://github.com/moodoki/tfnet)]
@@ -100,6 +98,8 @@ If you find our survey or this repository useful for your research, please consi
 * **[Interspeech'17]** Waveform Modeling Using Stacked Dilated Convolutional Neural Networks for Speech Bandwidth Extension [[Paper](https://www.isca-archive.org/interspeech_2017/gu17_interspeech.html)]
 
 * **[ICLR Workshop'17]** Audio Super Resolution using Neural Networks [[Paper](https://arxiv.org/abs/1708.00853)] [[Code](https://github.com/kuleshov/audio-super-res)]
+
+* **[Interspeech'16]** Speech Bandwidth Extension Using Bottleneck Features and Deep Recurrent Neural Networks [[Paper](https://www.isca-archive.org/interspeech_2016/gu16b_interspeech.html)]
 
 * **[Interspeech'16]** A Novel Research to Artificial Bandwidth Extension Based on Deep BLSTM Recurrent Neural Networks and Exemplar-Based Sparse Representation [[Paper](https://www.isca-archive.org/interspeech_2016/liu16k_interspeech.html)]
 
