@@ -91,7 +91,7 @@ This repository organizes representative methods according to their primary mode
 
 ### 2024
 
-* `[Venue'24]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ICASSP'24]** Class: Continual Learning Approach for Speech Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/10445917)]
 
 ---
 
