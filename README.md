@@ -91,7 +91,11 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'18]** Time-Frequency Networks for Audio Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/8462049)] [[Code](https://github.com/moodoki/tfnet)]
 
+* **[ICASSP'18]** Blind Bandwidth Extension Based on Convolutional and Recurrent Deep Neural Networks [[Paper](https://ieeexplore.ieee.org/document/8462049)] [[Code](https://ieeexplore.ieee.org/document/8462691)]
+
 * **[TASLP'18]** Waveform Modeling and Generation Using Hierarchical Recurrent Neural Networks for Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/8270683)]
+
+* **[Interspeech'17]** Waveform Modeling Using Stacked Dilated Convolutional Neural Networks for Speech Bandwidth Extension [[Paper](https://www.isca-archive.org/interspeech_2017/gu17_interspeech.html)]
 
 
 ---
