@@ -221,13 +221,13 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2026
 
-* `[Venue'26]` **FLowHigh** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ArXiv'26]** LatentFlowSR: High-Fidelity Audio Super-Resolution via Noise-Robust Latent Flow Matching [[Paper](https://arxiv.org/abs/2604.09188)] 
 
-* `[Venue'26]` **UniverSR** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ICASSP'26]** Towards Real-Time Generative Speech Restoration with Flow-Matching [[Paper](https://ieeexplore.ieee.org/document/11463015)]
 
 ### 2025
 
-* `[Venue'25]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[TASLP'25]** Real-Time Streamable Generative Speech Restoration With Flow Matching [[Paper](https://ieeexplore.ieee.org/document/11533884)] [[Code](https://github.com/sp-uhh/streamfm)]
 
 ---
 
