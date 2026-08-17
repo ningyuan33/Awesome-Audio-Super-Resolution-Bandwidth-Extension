@@ -227,6 +227,8 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'26]** Universr: Unified and Versatile Audio Super-Resolution Via Vocoder-Free Flow Matching [[Paper](https://ieeexplore.ieee.org/document/11460830)] [[Code](https://github.com/woongzip1/UniverSR)]
 
+* **[ICASSP'26]** SAGA-SR: Semantically and Acoustically Guided Audio Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/11460886)] [[Code](https://github.com/jakeoneijk/SAGA-SR)]
+
 * **[ICASSP'26]** Towards Real-Time Generative Speech Restoration with Flow-Matching [[Paper](https://ieeexplore.ieee.org/document/11463015)]
 
 * **[ICASSP'26]** Single-Step Controllable Music Bandwidth extension with Flow Matching [[Paper](https://ieeexplore.ieee.org/document/11461402)]
