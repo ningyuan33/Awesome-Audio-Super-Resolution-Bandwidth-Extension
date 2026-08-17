@@ -65,6 +65,12 @@ If you find our survey or this repository useful for your research, please consi
 
 ## MLP/RNN/CNN
 
+### 2024
+
+* **[ICASSP'24]** Speaker Adaptation For Enhancement Of Bone-Conducted Speech [[Paper](https://ieeexplore.ieee.org/document/10447322)]
+
+
+
 ### Earlier Works
 
 * `[Venue'YY]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
