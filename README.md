@@ -97,6 +97,8 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[Interspeech'17]** Waveform Modeling Using Stacked Dilated Convolutional Neural Networks for Speech Bandwidth Extension [[Paper](https://www.isca-archive.org/interspeech_2017/gu17_interspeech.html)]
 
+* **[ICLR Workshop'17]** Audio Super Resolution using Neural Networks [[Paper](https://arxiv.org/abs/1708.00853)] [[Code](https://github.com/kuleshov/audio-super-res)]
+
 
 ---
 
