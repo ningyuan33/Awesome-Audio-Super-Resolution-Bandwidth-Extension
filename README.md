@@ -91,7 +91,9 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'18]** Time-Frequency Networks for Audio Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/8462049)] [[Code](https://github.com/moodoki/tfnet)]
 
-* **[ICASSP'18]** Blind Bandwidth Extension Based on Convolutional and Recurrent Deep Neural Networks [[Paper](https://ieeexplore.ieee.org/document/8462049)] [[Code](https://ieeexplore.ieee.org/document/8462691)]
+* **[ICASSP'18]** Blind Bandwidth Extension Based on Convolutional and Recurrent Deep Neural Networks [[Paper](https://ieeexplore.ieee.org/document/8462049)]
+
+* **[ICASSP'18]** A Simple Cepstral Domain DNN Approach to Artificial Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/8462362)]
 
 * **[TASLP'18]** Waveform Modeling and Generation Using Hierarchical Recurrent Neural Networks for Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/8270683)]
 
@@ -103,6 +105,8 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[Interspeech'16]** A Novel Research to Artificial Bandwidth Extension Based on Deep BLSTM Recurrent Neural Networks and Exemplar-Based Sparse Representation [[Paper](https://www.isca-archive.org/interspeech_2016/liu16k_interspeech.html)]
 
+* **[IWAENC'16]** Artificial bandwidth extension using deep neural networks for spectral envelope estimation [[Paper](https://ieeexplore.ieee.org/document/7602894)]
+
 * **[ICASSP'15]** A deep neural network approach to speech bandwidth expansion [[Paper](https://ieeexplore.ieee.org/document/7178801)]
 
 * **[Interspeech'15]** A Novel Method of Artificial Bandwidth Extension Using Deep Architecture [[Paper](https://www.isca-archive.org/interspeech_2015/liu15g_interspeech.html)]
@@ -111,6 +115,7 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[Interspeech'15]** DNN-based speech bandwidth expansion and its application to adding high-frequency missing features for automatic speech recognition of narrowband speech [[Paper](https://www.isca-archive.org/interspeech_2015/li15d_interspeech.html)]
 
+* **[IJCNN'15]** Restoring high frequency spectral envelopes using neural networks for speech bandwidth extension [[Paper](https://ieeexplore.ieee.org/document/7280483)]
 
 ---
 
