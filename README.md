@@ -177,7 +177,7 @@ If you find our survey or this repository useful for your research, please consi
 
 ---
 
-## Generative Adversarial Networks
+## Generative Adversarial Networks (GANs)
 
 ### 2025
 
