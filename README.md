@@ -159,6 +159,8 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[WASPAA'19]** Speech Bandwidth Extension with Wavenet [[Paper](https://ieeexplore.ieee.org/document/8937169)]
 
+* **[ISCSLP'18]** Speech Super-Resolution Using Parallel WaveNet [[Paper](https://ieeexplore.ieee.org/document/8706637)]
+
 ---
 
 ## Variational Autoencoders (VAEs)
