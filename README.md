@@ -221,9 +221,16 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2026
 
-* **[ArXiv'26]** LatentFlowSR: High-Fidelity Audio Super-Resolution via Noise-Robust Latent Flow Matching [[Paper](https://arxiv.org/abs/2604.09188)] 
+* **[ArXiv'26]** LatentFlowSR: High-Fidelity Audio Super-Resolution via Noise-Robust Latent Flow Matching [[Paper](https://arxiv.org/abs/2604.09188)]
+
+* **[ArXiv'26]** CodecFlow: Efficient Bandwidth Extension via Conditional Flow Matching in Neural Codec Latent Space [[Paper](https://arxiv.org/abs/2603.02022)]
+
+* **[ICASSP'26]** Universr: Unified and Versatile Audio Super-Resolution Via Vocoder-Free Flow Matching [[Paper](https://ieeexplore.ieee.org/document/11460830)] [[Code](https://github.com/woongzip1/UniverSR)]
 
 * **[ICASSP'26]** Towards Real-Time Generative Speech Restoration with Flow-Matching [[Paper](https://ieeexplore.ieee.org/document/11463015)]
+
+* **[ICASSP'26]** Single-Step Controllable Music Bandwidth extension with Flow Matching [[Paper](https://ieeexplore.ieee.org/document/11461402)]
+
 
 ### 2025
 
