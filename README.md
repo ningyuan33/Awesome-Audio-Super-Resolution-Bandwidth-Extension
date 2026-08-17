@@ -167,11 +167,11 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2024
 
-* `[Venue'24]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ACM MM'24]** Time-Frequency Domain Fusion Enhancement for Audio Super-Resolution [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681486)]
 
 ### Earlier Works
 
-* `[Venue'YY]` **Paper Title** [[Paper](PAPER_URL)]
+* **[ICASSP'20]** Artificial Bandwidth Extension Using Conditional Variational Auto-encoders and Adversarial Learning [[Paper](https://ieeexplore.ieee.org/document/9053737)]
 
 ---
 
