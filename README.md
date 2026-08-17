@@ -85,7 +85,7 @@ This repository organizes representative methods according to their primary mode
 
 ### 2025
 
-* `[Venue'25]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* `[ArXiv'25]` **Paper Title** [[Paper]([PAPER_URL](https://arxiv.org/abs/2507.00229))] [[Code](CODE_URL)]
 
 ### 2024
 
