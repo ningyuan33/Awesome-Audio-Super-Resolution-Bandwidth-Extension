@@ -89,6 +89,8 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[NeurIPS'19]** Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/2afc4dfb14e55c6face649a1d0c1025b-Paper.pdf)] [[Code](https://github.com/kuleshov/audio-super-res)]
 
+* **[ICASSP'18]** Time-Frequency Networks for Audio Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/8462049)] [[Code](https://github.com/moodoki/tfnet)]
+
 * **[TASLP'18]** Waveform Modeling and Generation Using Hierarchical Recurrent Neural Networks for Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/8270683)]
 
 
