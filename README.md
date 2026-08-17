@@ -51,11 +51,11 @@ If you find our survey or this repository useful for your research, please consi
   * [State Space Models (Mamba)](#state-space--mamba-models)
 * [Generative Models](#-generative-models)
 
-  * [Autoregressive Models](#autoregressive-models)
+  * [Autoregressive](#autoregressive-models)
   * [Variational Autoencoders (VAEs)](#variational-autoencoders)
   * [Generative Adversarial Networks (GANs)](#gan-based-models)
-  * [Diffusion-based Models](#diffusion--score-based-models)
-  * [Flow-based Models](#flow-based-models)
+  * [Diffusion](#diffusion--score-based-models)
+  * [Flow](#flow-based-models)
   * [Schrödinger Bridge](#schrödinger-bridge-models)
 ---
 
@@ -153,7 +153,7 @@ If you find our survey or this repository useful for your research, please consi
 
 # ✨ Generative Models
 
-## Autoregressive Models
+## Autoregressive
 
 ### 2024
 
@@ -197,7 +197,7 @@ If you find our survey or this repository useful for your research, please consi
 
 ---
 
-## Diffusion-based Models
+## Diffusion
 
 ### 2025
 
@@ -219,7 +219,7 @@ If you find our survey or this repository useful for your research, please consi
 
 ---
 
-## Flow-based Models
+## Flow
 
 ### 2026
 
