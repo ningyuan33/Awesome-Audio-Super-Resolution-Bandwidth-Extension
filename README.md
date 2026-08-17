@@ -11,7 +11,7 @@ If you find any missing papers, incorrect information, or useful resources, plea
 ---
 
 <p align="center">
-  <img src="/Timeline2.png" width="95%">
+  <img src="/Timeline.png" width="95%">
 </p>
 
 <p align="center">
