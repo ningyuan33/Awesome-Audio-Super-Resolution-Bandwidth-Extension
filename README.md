@@ -69,6 +69,8 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'24]** Speaker Adaptation For Enhancement Of Bone-Conducted Speech [[Paper](https://ieeexplore.ieee.org/document/10447322)]
 
+* **[Interspeech'23]** Noise-Robust Bandwidth Expansion for 8K Speech Recordings [[Paper](https://www.isca-archive.org/interspeech_2023/lin23f_interspeech.html)]
+
 * **[SPL'23]** Restoration of Bone-Conducted Speech With U-Net-Like Model and Energy Distance Loss [[Paper](https://ieeexplore.ieee.org/document/10374184)]
 
 ### Earlier Works
