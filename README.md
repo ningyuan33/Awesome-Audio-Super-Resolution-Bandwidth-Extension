@@ -83,9 +83,14 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'20]** A Time-Frequency Network with Channel Attention and Non-Local Modules for Artificial Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/9053769)]
 
+* **[ICASSP'20]** Time-Domain Neural Network Approach for Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/9054551)]
+
 * **[Interspeech'20]** Speaker and Phoneme-Aware Speech Bandwidth Extension with Residual Dual-Path Network [[Paper](https://www.isca-archive.org/interspeech_2020/hou20c_interspeech.html)]
 
-* **[NeurIPS'19]** Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/2afc4dfb14e55c6face649a1d0c1025b-Paper.pdf)]
+* **[NeurIPS'19]** Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/2afc4dfb14e55c6face649a1d0c1025b-Paper.pdf)] [[Code](https://github.com/kuleshov/audio-super-res)]
+
+* **[TASLP'18]** Waveform Modeling and Generation Using Hierarchical Recurrent Neural Networks for Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/8270683)]
+
 
 ---
 
