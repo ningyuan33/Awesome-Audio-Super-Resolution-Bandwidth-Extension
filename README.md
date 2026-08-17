@@ -75,7 +75,7 @@ If you find our survey or this repository useful for your research, please consi
 
 ### Earlier Works
 
-* `[Venue'YY]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[Interspeech'21]** A Two-Stage Approach to Speech Bandwidth Extension [[Paper](https://www.isca-archive.org/interspeech_2021/lin21d_interspeech.html)]
 
 ---
 
