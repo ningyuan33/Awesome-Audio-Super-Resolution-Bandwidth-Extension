@@ -73,8 +73,6 @@ This repository organizes representative methods according to their primary mode
 
 # 🔷 Discriminative Models
 
-Discriminative approaches generally learn a direct mapping from low-resolution or bandwidth-limited audio to its corresponding high-resolution signal.
-
 ## MLP/RNN/CNN
 
 ### Earlier Works
