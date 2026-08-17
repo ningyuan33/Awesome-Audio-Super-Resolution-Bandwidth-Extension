@@ -155,13 +155,9 @@ If you find our survey or this repository useful for your research, please consi
 
 ## Autoregressive
 
-### 2024
-
-* `[Venue'24]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
-
 ### Earlier Works
 
-* `[Venue'YY]` **Paper Title** [[Paper](PAPER_URL)]
+* **[WASPAA'19]** Speech Bandwidth Extension with Wavenet [[Paper](https://ieeexplore.ieee.org/document/8937169)]
 
 ---
 
