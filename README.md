@@ -63,7 +63,11 @@ If you find our survey or this repository useful for your research, please consi
 
 # 📖 Overview
 
-Audio super-resolution and bandwidth extension aim to reconstruct missing high-frequency information from bandwidth-limited audio signals. Over the past decade, methods have evolved from deterministic **discriminative models**, which directly predict missing frequency components, toward **generative models** capable of modeling the distribution of plausible high-frequency content. This repository organizes representative methods according to their primary modeling paradigms and provides links to papers and official implementations whenever available.
+Audio super-resolution and bandwidth extension aim to reconstruct missing high-frequency information from bandwidth-limited audio signals. 
+
+Over the past decade, methods have evolved from deterministic **discriminative models**, which directly predict missing frequency components, toward **generative models** capable of modeling the distribution of plausible high-frequency content. 
+
+This repository organizes representative methods according to their primary modeling paradigms and provides links to papers and official implementations whenever available.
 
 ---
 
