@@ -81,6 +81,11 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'20]** Time-Frequency Loss for CNN Based Speech Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9053712)]
 
+* **[ICASSP'20]** A Time-Frequency Network with Channel Attention and Non-Local Modules for Artificial Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/9053769)]
+
+* **[Interspeech'20]** Speaker and Phoneme-Aware Speech Bandwidth Extension with Residual Dual-Path Network [[Paper](https://www.isca-archive.org/interspeech_2020/hou20c_interspeech.html)]
+
+
 
 ---
 
