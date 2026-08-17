@@ -241,6 +241,6 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'25]** Bridge-SR: Schrödinger Bridge for Efficient SR [[Paper](https://ieeexplore.ieee.org/document/10890104)]
 
-* **[ArXiv'25]** A2SB: Audio-to-Audio Schrodinger Bridges [[Paper](https://ieeexplore.ieee.org/document/10890104)] [[Code](https://github.com/NVIDIA/diffusion-audio-restoration)]
+* **[ArXiv'25]** A2SB: Audio-to-Audio Schrodinger Bridges [[Paper](https://arxiv.org/abs/2501.11311)] [[Code](https://github.com/NVIDIA/diffusion-audio-restoration)]
 
 ---
