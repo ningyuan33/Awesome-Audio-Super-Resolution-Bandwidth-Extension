@@ -243,6 +243,24 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[TASLP'22]** BEHM-GAN: Bandwidth Extension of Historical Music Using Generative Adversarial Networks [[Paper](https://ieeexplore.ieee.org/document/9829821)] [[Code](https://github.com/eloimoliner/bwe_historical_recordings)]
 
+* **[ICASSP'21]** Real-Time Speech Frequency Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/9413439)]
+
+* **[ICASSP'21]** Bandwidth Extension is All You Need [[Paper](https://ieeexplore.ieee.org/document/9413575)] [[Demo](https://pixl.cs.princeton.edu/pubs/Su_2021_BEI/)]
+
+* **[ICASSP'20]** Time-Domain Neural Network Approach for Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/9054551)]
+
+* **[ICASSP'19]** Speech Super Resolution Generative Adversarial Network [[Paper](https://ieeexplore.ieee.org/document/8682215)]
+
+* **[ICASSP'19]** Cyclegan Bandwidth Extension Acoustic Modeling for Automatic Speech Recognition [[Paper](https://ieeexplore.ieee.org/document/8682760)]
+
+* **[ICASSP'19]** Artificial Bandwidth Extension Using a Conditional Generative Adversarial Network with Discriminative Training [[Paper](https://ieeexplore.ieee.org/document/8682649)]
+
+* **[INTERSPEECH'19]** Speech Audio Super-Resolution for Speech Recognition [[Paper](https://www.isca-archive.org/interspeech_2019/li19q_interspeech.html)]
+
+* **[ArXiv'19]** Bandwidth Extension on Raw Audio via Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1903.09027)]
+
+* **[ICASSP'18]** Speech Bandwidth Extension Using Generative Adversarial Networks [[Paper](https://ieeexplore.ieee.org/document/8462588)]
+  
 ---
 
 ## Diffusion
