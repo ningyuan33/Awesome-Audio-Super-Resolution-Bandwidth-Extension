@@ -252,12 +252,11 @@ If you find our survey or this repository useful for your research, please consi
 
 ### Earlier Works
 
-* **[ArXiv'22]** Universal Speech Enhancement with Score-based Diffusion (UNIVERSE) [[Paper](https://arxiv.org/abs/2206.03065)] [[Demo](https://serrjoa.github.io/projects/universe/)]
-
 * **[INTERSPEECH'22]** NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates [[Paper](https://www.isca-archive.org/interspeech_2022/han22_interspeech.html)] [[Code](https://github.com/maum-ai/nuwave2)]
 
 * **[INTERSPEECH'21]** NU-Wave: A Diffusion Probabilistic Model for Neural Audio Upsampling [[Paper](https://www.isca-archive.org/interspeech_2021/lee21c_interspeech.html)] [[Code](https://github.com/maum-ai/nuwave)]
 
+* **[ArXiv'22]** Universal Speech Enhancement with Score-based Diffusion (UNIVERSE) [[Paper](https://arxiv.org/abs/2206.03065)] [[Demo](https://serrjoa.github.io/projects/universe/)]
 ---
 
 ## Flow
