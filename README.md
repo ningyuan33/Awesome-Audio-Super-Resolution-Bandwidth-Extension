@@ -209,7 +209,17 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2024
 
-* `[Venue'24]` **AP-BWE** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ICASSP'24]** BAE-Net: a Low Complexity and High Fidelity Bandwidth-Adaptive Neural Network for Speech Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/10446439)] [[Code](https://github.com/yuguochencuc/BAE-Net)]
+
+* **[INTERSPEECH'24]** Multi-Stage Speech Bandwidth Extension with Flexible Sampling Rate Control [[Paper](https://www.isca-archive.org/interspeech_2024/lu24_interspeech.html)] [[Demo](https://yxlu-0102.github.io/MS-BWE-demo/)]
+
+* **[TASLP'24]** Audio Super-Resolution With Robust Speech Representation Learning of Masked Autoencoder [[Paper](https://ieeexplore.ieee.org/document/10381805)] [[Code](https://github.com/FrePainter/code)] [[Demo](https://frepainter.github.io/demo/)]
+
+* **[TASLP'24]** Towards High-Quality and Efficient Speech Bandwidth Extension With Parallel Amplitude and Phase Prediction [[Paper](https://ieeexplore.ieee.org/document/10806888)] [[Code](https://github.com/yxlu-0102/AP-BWE)] [[Demo](https://yxlu-0102.github.io/AP-BWE/)]
+
+* **[TASLP'24]** Time-Domain Speech Super-Resolution With GAN Based Modeling for Telephony Speaker Verification [[Paper](https://ieeexplore.ieee.org/document/10444048)]
+
+* **[JASA'24]** Spectral Network Based on Lattice Convolution and Adversarial Training for Noise-Robust Speech Super-Resolution (SDNet) [[Paper](https://pubs.aip.org/asa/jasa/article/156/5/3143/3320008)]
 
 ### 2023
 
