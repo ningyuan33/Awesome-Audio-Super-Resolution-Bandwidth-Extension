@@ -38,7 +38,7 @@ If you find our survey or this repository useful for your research, please consi
 ## 📢 News
 
 * **2026/08** 🔥 Repository released.
-* **2026/06** 🔥 Our survey is available on arXiv.
+* **2026/06** 🔥 Our survey is available on arXiv [[Paper](https://arxiv.org/abs/2605.16681v2)].
 * More papers and resources will be continuously added.
 
 ---
