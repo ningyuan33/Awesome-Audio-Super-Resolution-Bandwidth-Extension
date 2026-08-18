@@ -181,6 +181,8 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'26]** HCGAN: Harmonic-Coupled Generative Adversarial Network for Speech Super-Resolution in Low-Bandwidth Scenarios [[Paper](https://ieeexplore.ieee.org/document/11462170)]
 
+* **[ICASSP'26]** NLDSI-BWE: Non Linear Dynamical Systems-Inspired Multi Resolution Discriminators for Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/11464384)]
+
 * **[INTERSPEECH'26]** SEMamba++: A General Speech Restoration Framework Leveraging Global, Local, and Periodic Spectral Patterns [[Paper](https://arxiv.org/abs/2603.11669)] [[Code](https://github.com/infected4098/SEMambapp)] [[Demo](https://sites.google.com/view/semambapp)]
 
 * **[TASLP'26]** A Harmonic-Coupled Generative Adversarial Network for Speech Super-Resolution in Low Bandwidth Scenarios [[Paper](https://ieeexplore.ieee.org/document/11447414)]
@@ -191,7 +193,19 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2025
 
-* `[Venue'25]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[INTERSPEECH'25]** Frequency-Domain Enhanced Extreme Bandwidth Extension Network with ICCRN for Superior Speech Quality [[Paper](https://www.isca-archive.org/interspeech_2025/bao25_interspeech.html)]
+
+* **[INTERSPEECH'25]** HWB-Net: A Novel High-Performance and Efficient Hybrid Waveform Bandwidth Extension Method [[Paper](https://www.isca-archive.org/interspeech_2025/liu25d_interspeech.html)]
+
+* **[ICASSP'25]** HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/10888627)]
+
+* **[ICASSP'25]** Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution [[Paper](https://ieeexplore.ieee.org/document/10890511)] [[Code](https://github.com/infected4098/Wave-U-Mamba)]
+
+* **[TASLP'25]** VM-ASR: A Lightweight Dual-Stream U-Net Model for Efficient Audio Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/10852332)] [[Code](https://github.com/ghnmqdtg/vm-asr)] [[Demo](https://ghnmqdtg.github.io/vm-asr-demo/)]
+
+* **[TASLP'25]** SFNet: A Two-Stage Source-Filter-Based Neural Network for Real-Time Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/11269710)]
+
+* **[ArXiv'25]** SwinSRGAN: Swin Transformer-based Generative Adversarial Network for High-Fidelity Speech Super-Resolution [[Paper](https://arxiv.org/html/2509.03913v3)]
 
 ### 2024
 
