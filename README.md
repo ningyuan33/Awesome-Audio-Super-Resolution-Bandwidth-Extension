@@ -60,7 +60,7 @@ If you find our survey or this repository useful for your research, please consi
 
 # 🔷 Discriminative Models
 
-## [MLP/RNN/CNN](#mlprnncnn)
+## [MLP/RNN/CNN]
 
 ### 2024
 
