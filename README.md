@@ -220,13 +220,17 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2023
 
-* `[Venue'23]` **NU-Wave2** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ICASSP'23]** Conditioning and Sampling in Variational Diffusion Models for Speech Super-Resolution (UDM+) [[Paper](https://ieeexplore.ieee.org/document/10095103)] [[Code](https://github.com/iamycy/diffwave-sr)] [[Demo](https://iamycy.github.io/diffwave-sr/)]
 
-* `[Venue'23]` **UDM+** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ICASSP'23]** Analysing Diffusion-based Generative Approaches Versus Discriminative Approaches for Speech Restoration [[Paper](https://ieeexplore.ieee.org/document/10095258)] [[Code](https://github.com/sp-uhh/sgmse)]
 
 ### Earlier Works
 
-* `[Venue'YY]` **NU-Wave** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[INTERSPEECH'22]** NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates [[Paper](https://www.isca-archive.org/interspeech_2022/han22_interspeech.html)] [[Code](https://github.com/maum-ai/nuwave2)] [[Demo](https://mindslab-ai.github.io/nuwave2/)]
+
+* **[ArXiv'22]** Universal Speech Enhancement with Score-based Diffusion (UNIVERSE) [[Paper](https://arxiv.org/abs/2206.03065)] [[Demo](https://serrjoa.github.io/projects/universe/)]
+
+* **[INTERSPEECH'21]** NU-Wave: A Diffusion Probabilistic Model for Neural Audio Upsampling [[Paper](https://www.isca-archive.org/interspeech_2021/lee21c_interspeech.html)] [[Code](https://github.com/maum-ai/nuwave)]
 
 ---
 
