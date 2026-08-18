@@ -45,23 +45,22 @@ If you find our survey or this repository useful for your research, please consi
 
 ## 📑 Table of Contents
 * [Discriminative Models](#-discriminative-models)
+  * [MLP/RNN/CNN](#mlprnncnn)
+  * [Transformers](#transformers)
+  * [State Space Models (Mamba)](#state-space-models-mamba)
 
-  * [MLP/RNN/CNN](#mlp-based-models)
-  * [Transformers](#transformer-based-models)
-  * [State Space Models (Mamba)](#state-space--mamba-models)
 * [Generative Models](#-generative-models)
-
-  * [Autoregressive](#autoregressive-models)
-  * [Variational Autoencoders (VAEs)](#variational-autoencoders)
-  * [Generative Adversarial Networks (GANs)](#gan-based-models)
-  * [Diffusion](#diffusion--score-based-models)
-  * [Flow](#flow-based-models)
-  * [Schrödinger Bridge](#schrödinger-bridge-models)
+  * [Autoregressive](#autoregressive)
+  * [Variational Autoencoders (VAEs)](#variational-autoencoders-vaes)
+  * [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
+  * [Diffusion](#diffusion)
+  * [Flow](#flow)
+  * [Schrödinger Bridge](#schrödinger-bridge)
 ---
 
 # 🔷 Discriminative Models
 
-## MLP/RNN/CNN
+## [MLP/RNN/CNN](#mlprnncnn)
 
 ### 2024
 
