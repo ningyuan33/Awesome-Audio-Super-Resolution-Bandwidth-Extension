@@ -212,6 +212,10 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'24]** Audiosr: Versatile Audio Super-Resolution at Scale [[Paper](https://ieeexplore.ieee.org/document/10447246)] [[Code](https://github.com/haoheliu/versatile_audio_super_resolution)]
 
+* **[Interspeech'24]** A Parameterized Stochastic Diffusion Process for Noise-Robust Bandwidth Expansion [[Paper](https://www.isca-archive.org/interspeech_2024/lin24c_interspeech.pdf)] [[Code](https://github.com/alexlinander/SWiBE)]
+
+* **[INTERSPEECH'24]** Universal Score-based Speech Enhancement with High Content Preservation (UNIVERSE++) [[Paper](https://www.isca-archive.org/interspeech_2024/scheibler24_interspeech.html)] [[Code](https://github.com/line/open-universe)] [[Demo](https://www.robinscheibler.org/interspeech2024-universepp-samples/)]
+
 * **[TASLP'24]** Blind Audio Bandwidth Extension: A Diffusion-Based Zero-Shot Approach [[Paper](https://ieeexplore.ieee.org/document/10768977)] [[Code](https://github.com/eloimoliner/BABE)]
 
 ### 2023
