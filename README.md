@@ -223,11 +223,23 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2023
 
-* `[Venue'23]` **AERO** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+### 2023
+
+* **[ICASSP'23]** EBEN: Extreme Bandwidth Extension Network Applied To Speech Signals Captured With Noise-Resilient Body-Conduction Microphones [[Paper](https://ieeexplore.ieee.org/document/10096301)] [[Code](https://github.com/jhauret/eben)] [[Demo](https://jhauret.github.io/eben/)]
+
+* **[ICASSP'23]** Nonparallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs [[Paper](https://ieeexplore.ieee.org/document/10097002)] [[Code](https://github.com/chomeyama/DualCycleGAN)] [[Demo](https://chomeyama.github.io/DualCycleGAN-Demo/)]
+
+* **[ICASSP'23]** HIFI++: A Unified Framework for Bandwidth Extension and Speech Enhancement [[Paper](https://ieeexplore.ieee.org/document/10097255)]
+
+* **[INTERSPEECH'23]** mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra [[Paper](https://www.isca-archive.org/interspeech_2023/shuai23_interspeech.html)] [[Code](https://github.com/neoncloud/mdctGAN)]
+
+* **[EUSIPCO'23]** Low-Complexity Real-Time Neural Network for Blind Bandwidth Extension of Wideband Speech [[Paper](https://ieeexplore.ieee.org/document/10290072)] [[Demo](https://eagomez2.github.io/bbwexnet/)]
+
+* **[MLSP'23]** Low-Complexity Streaming Speech Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/10285965)]
 
 ### Earlier Works
 
-* `[Venue'YY]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+
 
 ---
 
