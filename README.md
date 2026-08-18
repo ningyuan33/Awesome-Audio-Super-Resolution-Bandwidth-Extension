@@ -177,6 +177,18 @@ If you find our survey or this repository useful for your research, please consi
 
 ## Generative Adversarial Networks (GANs)
 
+### 2026
+
+* **[ICASSP'26]** HCGAN: Harmonic-Coupled Generative Adversarial Network for Speech Super-Resolution in Low-Bandwidth Scenarios [[Paper](https://ieeexplore.ieee.org/document/11462170)]
+
+* **[INTERSPEECH'26]** SEMamba++: A General Speech Restoration Framework Leveraging Global, Local, and Periodic Spectral Patterns [[Paper](https://arxiv.org/abs/2603.11669)] [[Code](https://github.com/infected4098/SEMambapp)] [[Demo](https://sites.google.com/view/semambapp)]
+
+* **[TASLP'26]** A Harmonic-Coupled Generative Adversarial Network for Speech Super-Resolution in Low Bandwidth Scenarios [[Paper](https://ieeexplore.ieee.org/document/11447414)]
+
+* **[TASLP'26]** EDNet: A Versatile Speech Enhancement Framework With Gating Mamba Mechanism and Phase Shift-Invariant Training [[Paper](https://ieeexplore.ieee.org/document/11373856)] [[Demo](https://mm.kaist.ac.kr/projects/EDNet/)]
+
+* **[SPL'26]** Real-World Speech Recovery Under Multiple Distortions: A Two-Stage Framework With Feature Consistency and Adversarial Fine-Tuning [[Paper](https://ieeexplore.ieee.org/document/11368729)]
+
 ### 2025
 
 * `[Venue'25]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
