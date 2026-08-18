@@ -223,8 +223,6 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2023
 
-### 2023
-
 * **[ICASSP'23]** EBEN: Extreme Bandwidth Extension Network Applied To Speech Signals Captured With Noise-Resilient Body-Conduction Microphones [[Paper](https://ieeexplore.ieee.org/document/10096301)] [[Code](https://github.com/jhauret/eben)] [[Demo](https://jhauret.github.io/eben/)]
 
 * **[ICASSP'23]** Nonparallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs [[Paper](https://ieeexplore.ieee.org/document/10097002)] [[Code](https://github.com/chomeyama/DualCycleGAN)] [[Demo](https://chomeyama.github.io/DualCycleGAN-Demo/)]
@@ -239,7 +237,13 @@ If you find our survey or this repository useful for your research, please consi
 
 ### Earlier Works
 
+### 2022
 
+* **[INTERSPEECH'22]** Neural Vocoder is All You Need for Speech Super-resolution [[Paper](https://www.isca-archive.org/interspeech_2022/liu22x_interspeech.pdf)] [[Demo](https://haoheliu.github.io/haoheliu_prev_profile/nvsr)]
+
+* **[INTERSPEECH'22]** VoiceFixer: A Unified Framework for High-Fidelity Speech Restoration [[Paper](https://www.isca-archive.org/interspeech_2022/liu22y_interspeech.html)] [[Code](https://github.com/haoheliu/voicefixer)]
+
+* **[TASLP'22]** BEHM-GAN: Bandwidth Extension of Historical Music Using Generative Adversarial Networks [[Paper](https://ieeexplore.ieee.org/document/9829821)] [[Code](https://github.com/eloimoliner/bwe_historical_recordings)]
 
 ---
 
