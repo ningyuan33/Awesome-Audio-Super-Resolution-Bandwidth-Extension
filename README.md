@@ -236,7 +236,14 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2025
 
+* **[ICASSP'25]** FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching [[Paper](https://ieeexplore.ieee.org/document/10888772)] [[Code](https://github.com/jjunak-yun/FLowHigh_code)]
+
+* **[ICASSP'25]** Generative Speech Foundation Model Pretraining for High-Quality Speech Extraction and Restoration [[Paper](https://ieeexplore.ieee.org/document/10888830)] [[Demo](https://kuray107.github.io/ssl_gen25-examples/index.html)]
+
 * **[TASLP'25]** Real-Time Streamable Generative Speech Restoration With Flow Matching [[Paper](https://ieeexplore.ieee.org/document/11533884)] [[Code](https://github.com/sp-uhh/streamfm)]
+
+### Earlier Works
+* **[Interspeech'21]** WSRGlow: A Glow-Based Waveform Generative Model for Audio Super-Resolution [[Paper](https://www.isca-archive.org/interspeech_2021/zhang21k_interspeech.html)] [[Code](https://github.com/zkx06111/WSRGlow)]
 
 ---
 
