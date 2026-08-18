@@ -197,13 +197,22 @@ If you find our survey or this repository useful for your research, please consi
 
 ## Diffusion
 
+### 2026
+* **[ArXiv'26]** FastWave: Optimized Diffusion Model for Audio Super-Resolution [[Paper](https://arxiv.org/abs/2603.04122)] [[Code](https://github.com/Nikait/FastWave)]
+
+* **[AAAI'26]** Inference-time Scaling for Diffusion-based Audio Super-resolution [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38520)] [[Demo](https://racerk.github.io/tt-scale-audiosr/)]
+
 ### 2025
 
-* `[Venue'25]` **Paper Title** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ICASSP'25]** FlashSR: One-step Versatile Audio Super-resolution via Diffusion Distillation [[Paper](https://ieeexplore.ieee.org/document/10889472)] [[Demo](https://jakeoneijk.github.io/flashsr-demo/)]
+
+* **[ICASSP'25]** Vector Quantized Diffusion Model Based Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/10889180)] 
 
 ### 2024
 
-* `[Venue'24]` **AudioSR** [[Paper](PAPER_URL)] [[Code](CODE_URL)]
+* **[ICASSP'24]** Audiosr: Versatile Audio Super-Resolution at Scale [[Paper](https://ieeexplore.ieee.org/document/10447246)] [[Code](https://github.com/haoheliu/versatile_audio_super_resolution)]
+
+* **[TASLP'24]** Blind Audio Bandwidth Extension: A Diffusion-Based Zero-Shot Approach [[Paper](https://ieeexplore.ieee.org/document/10768977)] [[Code](https://github.com/eloimoliner/BABE)]
 
 ### 2023
 
