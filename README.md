@@ -124,7 +124,7 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2025
 
-* **[ArXiv'25]** A High-Fidelity Speech Super Resolution Network using a Complex Global Attention Module with Spectro-Temporal Loss [[Paper](https://arxiv.org/abs/2507.00229)]
+* **[arXiv'25]** A High-Fidelity Speech Super Resolution Network using a Complex Global Attention Module with Spectro-Temporal Loss [[Paper](https://arxiv.org/abs/2507.00229)]
 
 * **[INTERSPEECH'25]** A Neural Codec Approach for Noise-Robust Bandwidth Expansion [[Paper](https://www.isca-archive.org/interspeech_2025/liu25p_interspeech.pdf)] [[Demo](https://winkee520.github.io/NRBWE/)]
 
@@ -204,7 +204,7 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[TASLP'25]** SFNet: A Two-Stage Source-Filter-Based Neural Network for Real-Time Speech Bandwidth Extension [[Paper](https://ieeexplore.ieee.org/document/11269710)]
 
-* **[ArXiv'25]** SwinSRGAN: Swin Transformer-based Generative Adversarial Network for High-Fidelity Speech Super-Resolution [[Paper](https://arxiv.org/html/2509.03913v3)]
+* **[arXiv'25]** SwinSRGAN: Swin Transformer-based Generative Adversarial Network for High-Fidelity Speech Super-Resolution [[Paper](https://arxiv.org/html/2509.03913v3)]
 
 ### 2024
 
@@ -256,7 +256,7 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[INTERSPEECH'19]** Speech Audio Super-Resolution for Speech Recognition [[Paper](https://www.isca-archive.org/interspeech_2019/li19q_interspeech.html)]
 
-* **[ArXiv'19]** Bandwidth Extension on Raw Audio via Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1903.09027)]
+* **[arXiv'19]** Bandwidth Extension on Raw Audio via Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1903.09027)]
 
 * **[ICASSP'18]** Speech Bandwidth Extension Using Generative Adversarial Networks [[Paper](https://ieeexplore.ieee.org/document/8462588)]
   
@@ -265,7 +265,7 @@ If you find our survey or this repository useful for your research, please consi
 ## Diffusion
 
 ### 2026
-* **[ArXiv'26]** FastWave: Optimized Diffusion Model for Audio Super-Resolution [[Paper](https://arxiv.org/abs/2603.04122)] [[Code](https://github.com/Nikait/FastWave)]
+* **[arXiv'26]** FastWave: Optimized Diffusion Model for Audio Super-Resolution [[Paper](https://arxiv.org/abs/2603.04122)] [[Code](https://github.com/Nikait/FastWave)]
 
 * **[AAAI'26]** Inference-time Scaling for Diffusion-based Audio Super-resolution [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38520)] [[Demo](https://racerk.github.io/tt-scale-audiosr/)]
 
@@ -293,7 +293,7 @@ If you find our survey or this repository useful for your research, please consi
 
 ### Earlier Works
 
-* **[ArXiv'22]** Universal Speech Enhancement with Score-based Diffusion (UNIVERSE) [[Paper](https://arxiv.org/abs/2206.03065)] [[Demo](https://serrjoa.github.io/projects/universe/)]
+* **[arXiv'22]** Universal Speech Enhancement with Score-based Diffusion (UNIVERSE) [[Paper](https://arxiv.org/abs/2206.03065)] [[Demo](https://serrjoa.github.io/projects/universe/)]
 
 * **[INTERSPEECH'22]** NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates [[Paper](https://www.isca-archive.org/interspeech_2022/han22_interspeech.html)] [[Code](https://github.com/maum-ai/nuwave2)]
 
@@ -305,9 +305,9 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2026
 
-* **[ArXiv'26]** LatentFlowSR: High-Fidelity Audio Super-Resolution via Noise-Robust Latent Flow Matching [[Paper](https://arxiv.org/abs/2604.09188)]
+* **[arXiv'26]** LatentFlowSR: High-Fidelity Audio Super-Resolution via Noise-Robust Latent Flow Matching [[Paper](https://arxiv.org/abs/2604.09188)]
 
-* **[ArXiv'26]** CodecFlow: Efficient Bandwidth Extension via Conditional Flow Matching in Neural Codec Latent Space [[Paper](https://arxiv.org/abs/2603.02022)]
+* **[arXiv'26]** CodecFlow: Efficient Bandwidth Extension via Conditional Flow Matching in Neural Codec Latent Space [[Paper](https://arxiv.org/abs/2603.02022)]
 
 * **[ICASSP'26]** Universr: Unified and Versatile Audio Super-Resolution Via Vocoder-Free Flow Matching [[Paper](https://ieeexplore.ieee.org/document/11460830)] [[Code](https://github.com/woongzip1/UniverSR)]
 
@@ -339,6 +339,6 @@ If you find our survey or this repository useful for your research, please consi
 
 * **[ICASSP'25]** Bridge-SR: Schrödinger Bridge for Efficient SR [[Paper](https://ieeexplore.ieee.org/document/10890104)]
 
-* **[ArXiv'25]** A2SB: Audio-to-Audio Schrodinger Bridges [[Paper](https://arxiv.org/abs/2501.11311)] [[Code](https://github.com/NVIDIA/diffusion-audio-restoration)]
+* **[arXiv'25]** A2SB: Audio-to-Audio Schrodinger Bridges [[Paper](https://arxiv.org/abs/2501.11311)] [[Code](https://github.com/NVIDIA/diffusion-audio-restoration)]
 
 ---
