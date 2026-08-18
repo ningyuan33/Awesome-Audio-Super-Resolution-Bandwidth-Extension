@@ -237,8 +237,6 @@ If you find our survey or this repository useful for your research, please consi
 
 ### Earlier Works
 
-### 2022
-
 * **[INTERSPEECH'22]** Neural Vocoder is All You Need for Speech Super-resolution [[Paper](https://www.isca-archive.org/interspeech_2022/liu22x_interspeech.pdf)] [[Demo](https://haoheliu.github.io/haoheliu_prev_profile/nvsr)]
 
 * **[INTERSPEECH'22]** VoiceFixer: A Unified Framework for High-Fidelity Speech Restoration [[Paper](https://www.isca-archive.org/interspeech_2022/liu22y_interspeech.html)] [[Code](https://github.com/haoheliu/voicefixer)]
