@@ -193,13 +193,13 @@ If you find our survey or this repository useful for your research, please consi
 
 ### 2025
 
-* **[INTERSPEECH'25]** Frequency-Domain Enhanced Extreme Bandwidth Extension Network with ICCRN for Superior Speech Quality [[Paper](https://www.isca-archive.org/interspeech_2025/bao25_interspeech.html)]
-
-* **[INTERSPEECH'25]** HWB-Net: A Novel High-Performance and Efficient Hybrid Waveform Bandwidth Extension Method [[Paper](https://www.isca-archive.org/interspeech_2025/liu25d_interspeech.html)]
-
 * **[ICASSP'25]** HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/10888627)]
 
 * **[ICASSP'25]** Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution [[Paper](https://ieeexplore.ieee.org/document/10890511)] [[Code](https://github.com/infected4098/Wave-U-Mamba)]
+
+* **[INTERSPEECH'25]** Frequency-Domain Enhanced Extreme Bandwidth Extension Network with ICCRN for Superior Speech Quality [[Paper](https://www.isca-archive.org/interspeech_2025/bao25_interspeech.html)]
+
+* **[INTERSPEECH'25]** HWB-Net: A Novel High-Performance and Efficient Hybrid Waveform Bandwidth Extension Method [[Paper](https://www.isca-archive.org/interspeech_2025/liu25d_interspeech.html)]
 
 * **[TASLP'25]** VM-ASR: A Lightweight Dual-Stream U-Net Model for Efficient Audio Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/10852332)] [[Code](https://github.com/ghnmqdtg/vm-asr)] [[Demo](https://ghnmqdtg.github.io/vm-asr-demo/)]
 
