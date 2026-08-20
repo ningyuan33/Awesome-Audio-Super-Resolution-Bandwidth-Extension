@@ -1,6 +1,6 @@
 # ⭐ Awesome Audio Super-Resolution and Bandwidth Extension
 
-A curated collection of papers, resources, datasets, and benchmarks for **Audio Super-Resolution (SR)** and **Bandwidth Extension (BWE)**, covering the evolution from **discriminative to generative models**.
+📚 A curated collection of papers, resources, datasets, and benchmarks for **Audio Super-Resolution (SR)** and **Bandwidth Extension (BWE)**, covering the evolution from **discriminative to generative models**.
 
 This repository accompanies our survey:
 
@@ -37,8 +37,8 @@ If you find our survey or this repository useful for your research, please consi
 
 ## 📢 News
 
-* **2026/08** 🔥 Repository released.
-* **2026/06** 🔥 Our [[Paper](https://arxiv.org/abs/2605.16681v2)] is available on arXiv.
+* **2026/08** 🔥🔥 Repository is released.
+* **2026/06** 🔥🔥 Our paper "[A survey of advancing audio super-resolution and bandwidth extension from discriminative to generative models](https://arxiv.org/abs/2605.16681v2)" is available on arXiv.
 * More papers and resources will be continuously added.
 
 ---
