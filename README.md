@@ -25,11 +25,13 @@ If you find any missing papers, incorrect information, or useful resources, plea
 If you find our survey or this repository useful for your research, please consider citing our paper and giving this repository a ⭐.
 
 ```bibtex
-@article{yang2026survey,
-  title={A survey of advancing audio super-resolution and bandwidth extension from discriminative to generative models},
-  author={Yang, Ningyuan and Li, Yize and Cuji, Diego A and Corey, Ryan M and Zhao, Pu and Lin, Xue and Singer, Andrew C},
-  journal={arXiv preprint arXiv:2605.16681},
-  year={2026}
+@article{yang2026a,
+  title={A Survey of Advancing Audio Super-Resolution and Bandwidth Extension from Discriminative to Generative Models},
+  author={Ningyuan Yang and Yize Li and Diego A Cuji and Ryan M. Corey and Pu Zhao and Xue Lin and Andrew Singer},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2026},
+  url={https://openreview.net/forum?id=NdL2H5aoBn},
 }
 ```
 
@@ -37,8 +39,9 @@ If you find our survey or this repository useful for your research, please consi
 
 ## 📢 News
 
-* **2026/08** 🔥🔥 Repository is released.
-* **2026/06** 🔥🔥 Our paper "[A survey of advancing audio super-resolution and bandwidth extension from discriminative to generative models](https://arxiv.org/abs/2605.16681v2)" is available on arXiv.
+* **2026/11** 🎉🎉 Our paper "[A survey of advancing audio super-resolution and bandwidth extension from discriminative to generative models](https://openreview.net/forum?id=NdL2H5aoBn)" is accepted to **Transactions of Machine Learning Research (TMLR) 2026**.
+* **2026/08** 🔥🔥 Repository of paper collections is released.
+* **2026/06** 🔥🔥 Our [survey paper](https://arxiv.org/abs/2605.16681v2) is available on arXiv.
 * More papers and resources will be continuously added.
 
 ---
